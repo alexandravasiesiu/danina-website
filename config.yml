@@ -1,7 +1,7 @@
 baseURL: "https://demo.gethugothemes.com/kross/examplesite/"
 languageCode: en-us
 summaryLength: "10"
-theme: kross-hugo-master
+theme: kross-hugo
 title: Kross
 params:
   plugins:
