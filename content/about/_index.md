@@ -6,8 +6,6 @@ author_signature: "images/about/signature.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Înființată în Alba Iulia, compania noastră are ca și obiectiv principal să-și ajute clienții în a-și vedea visele îndeplinite cu ajutorul tehnologiei. Tu vii cu ideea, noi cu soluția!
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Echipa noastră este pregătită să-și folosească toate resurselele pentru a obține varianta optimă pentru nevoile tale. Viziunea noastră include utilizarea celei mai eficiente soluții pentru a obține un produs de succes.

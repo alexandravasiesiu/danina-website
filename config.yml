@@ -2,7 +2,7 @@ baseURL: "https://www.daninasoft.ro"
 languageCode: en-us
 summaryLength: "10"
 theme: kross-hugo
-title: Kross
+title: Danina Soft
 params:
   plugins:
     css:
@@ -18,15 +18,15 @@ params:
   home: Acasă
   logo: "images/logo-danina.png"
   theme_color: "#41228e"
-  phone: +880 2544 658 256
-  email: steve.fruits@email.com
-  address: "125/A, CA Commercial Area, California, USA"
-  author: Johnathan Smith
+  phone: +40 787 521 006
+  email: daninasoft@gmail.com
+  address: "Str.Zlatnei, Nr.52, Alba Iulia"
+  # author: Johnathan Smith
   description: This is meta description
   google_analytics_id: ""
   baidu_site_verification: ""
   baidu_analytics_id: ""
-  copyright: "Copyright &copy; 2021 a Theme by [Gethugothemes](https://gethugothemes.com)"
+  copyright: "Copyright &copy; 2022 Danina Soft"
   preloader:
     enable: true
     preloader: images/preloader.gif
@@ -36,9 +36,9 @@ params:
   map:
     enable: true
     gmap_api: >-
-      https://maps.googleapis.com/maps/api/js?key=&#038;types=(cities)&#038;libraries=places&#038;language=en
-    map_latitude: "51.5223477"
-    map_longitude: "-0.1622023"
+      https://maps.googleapis.com/maps/api/js?key=AIzaSyAxeYY2udSAyR0xK-bGHQUegkytpllcwb0&#038;types=(cities)&#038;libraries=places&#038;language=ro
+    map_latitude: "46.10135"
+    map_longitude: "23.55044"
     map_marker: images/marker.png
   cookies:
     enable: true
@@ -57,12 +57,6 @@ menu:
     - URL: about/
       name: Despre
       weight: 1
-    - URL: blog/
-      name: Postări
-      weight: 2
-    - URL: portfolio/
-      name: Portofoliu/Proiecte
-      weight: 3
     - URL: contact/
       name: Contact
       weight: 4
