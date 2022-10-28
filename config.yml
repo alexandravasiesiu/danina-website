@@ -32,7 +32,7 @@ params:
     preloader: images/preloader.gif
   contact:
     enable: true
-    form_action: "#"
+    form_action: "https://formsubmit.co/03f93d064acd96464ff51ba1d8d648b6"
   map:
     enable: true
     gmap_api: >-
