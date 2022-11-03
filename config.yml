@@ -2,7 +2,7 @@ baseURL: "https://www.daninasoft.ro"
 languageCode: en-us
 summaryLength: "10"
 theme: kross-hugo
-title: Danina Soft
+title: Danina Soft Service
 params:
   plugins:
     css:
@@ -26,7 +26,7 @@ params:
   google_analytics_id: ""
   baidu_site_verification: ""
   baidu_analytics_id: ""
-  copyright: "Copyright &copy; 2022 Danina Soft"
+  copyright: "Copyright &copy; 2022 Danina Soft Service"
   preloader:
     enable: true
     preloader: images/preloader.gif
